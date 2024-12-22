@@ -1,0 +1,16 @@
+.title{
+    margin: 10px;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+input{
+    width: 100%;
+}
+.kl-btn{
+    min-width: 70px;
+}
+.row-dg{
+    text-align: left;
+    font-weight: 450;
+    margin: 4px 3px;
+}
